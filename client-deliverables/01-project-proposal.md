@@ -63,30 +63,24 @@ This document outlines the scope, deliverables, timeline, and investment for the
 - [x] Technical documentation for future developers
 - [x] 30-day post-launch support period
 
-### 3.2 What Is NOT Included (Out of Scope)
+### 3.2 Optional Add-Ons (Available Now)
 
 > [!IMPORTANT]
-> The following items are **not** part of this engagement. They can be quoted separately as future phases.
+> The following items are **not** included in the core project investment, but they can be quoted separately and executed immediately alongside the website build to accelerate your launch.
 
-- ❌ Mobile application (iOS / Android)
-- ❌ User accounts and login system
-- ❌ Loan processing backend (approval workflows, disbursement tracking)
-- ❌ M-Pesa payment integration
-- ❌ NTSA / eCitizen API integration for logbook verification
-- ❌ SMS / email notification system
-- ❌ CRM integration (HubSpot, Zoho, etc.)
-- ❌ Ongoing content writing (blog posts, marketing copy)
-- ❌ Logo design or full brand identity package (assumed already provided)
-- ❌ Professional photography or video production
+- 🎨 **Social Media Content & Banners:** Custom, high-converting graphics for Facebook, Instagram, X, and TikTok.
+- ✉️ **Email & SMS Marketing Setup:** Automated customer retention campaigns (e.g., "Complete your application" or "Happy Birthday").
+- ✍️ **Ongoing Content Writing:** SEO-optimized blog posts written and published weekly.
+- 📸 **Brand Identity & Media:** Professional logo design, brand guidelines, and corporate photography/video production.
 
 ### 3.3 Proposed Future Phases (The Scaling Strategy)
 
 To ensure Coin Care Capital can handle high loan volumes without dramatically increasing staff headcount, we propose the following post-launch phases (detailed further in our Internal Tools & Scaling documentation):
 
-- **Internal Admin & Loan Portal:** A centralized dashboard to track loans from lead to disbursement.
-- **Workflow Automation:** "Invisible pipelines" that instantly alert staff of new leads and automate M-Pesa tracking.
-- **AI-Powered Operations:** Implementing OCR to automatically extract data from uploaded IDs and logbooks.
-- **AI Voice Sales Agent:** Deploying a conversational AI to call customers who abandon applications or are late on payments, operating 24/7 in English and Swahili.
+- **Phase 1: Loan Processing Backend & CRM:** A centralized internal dashboard to track loans, approve workflows, and automate M-Pesa/Bank disbursements.
+- **Phase 2: The Mobile App (iOS / Android):** A dedicated application with user accounts, secure login, and push notifications for repeat borrowers.
+- **Phase 3: Government API Integrations:** Direct connection to NTSA / eCitizen for instant, automated logbook verification.
+- **Phase 4: AI-Powered Features:** Implementing OCR to automatically extract data from uploaded IDs, and deploying AI Voice Sales Agents to call customers who abandon their applications.
 
 ---
 
