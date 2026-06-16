@@ -2,7 +2,7 @@
 
 This document outlines the priority sequence for software features across the Coin Care Capital digital ecosystem (Web & Mobile).
 
-## Phase 1: Immediate Priority (Q3 2026)
+## Phase 1: Immediate Priority
 
 ### 🔴 The Loan Tracker (Web App)
 The most urgent feature request. Customers need a way to check the status of their loan application and track their repayment progress without calling the office.
@@ -15,7 +15,7 @@ The most urgent feature request. Customers need a way to check the status of the
     *   **Payment History:** Ledger of past M-Pesa/Bank payments.
 *   **Technical Requirement:** Requires the Phase 1 Backend API and Database to be deployed.
 
-## Phase 2: Backend Automation (Q4 2026)
+## Phase 2: Backend Automation
 
 ### 🟢 Custom CRM & Loan Processing Backend
 Moving away from manually handling leads towards a fully automated pipeline.
@@ -26,7 +26,7 @@ Moving away from manually handling leads towards a fully automated pipeline.
     *   Automated NTSA TIMS integration for instant logbook verification (if possible) or automated status flagging.
     *   Automated SMS dispatch for payment reminders.
 
-## Phase 3: The Mobile Experience (Q1 2027)
+## Phase 3: The Mobile Experience
 
 ### 📱 Coin Care Mobile App (iOS & Android)
 A dedicated React Native (Expo) app for returning customers.
@@ -37,7 +37,7 @@ A dedicated React Native (Expo) app for returning customers.
     *   **In-App M-Pesa Payments:** Direct STK push integration.
     *   **One-Click Top-Up:** Let users request additional funds against their existing logbook equity.
 
-## Phase 4: Agent & Valuer Tools (Q2 2027)
+## Phase 4: Agent & Valuer Tools
 
 ### 🚗 Valuer Mobile App (Internal)
 A tool exclusively for Coin Care's field valuation officers.
@@ -48,7 +48,7 @@ A tool exclusively for Coin Care's field valuation officers.
     *   Digital inspection checklist.
     *   Instant upload to the internal CRM to trigger the final loan offer.
 
-## Phase 5: AI & Operations Scaling (Q3 2027)
+## Phase 5: AI & Operations Scaling
 
 ### 🤖 AI-Powered Automation
 To handle increased loan volume without drastically increasing operational headcount.

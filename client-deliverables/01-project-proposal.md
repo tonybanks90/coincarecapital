@@ -110,14 +110,14 @@ To ensure Coin Care Capital can handle high loan volumes without dramatically in
 |---|---|---|---|
 | 1 | This Project Proposal & SOW | PDF/Markdown | Before work begins |
 | 2 | Sitemap & Feature Breakdown | PDF/Markdown | Week 1 |
-| 3 | Wireframes / UI Mockups | Figma / Image files | Week 1-2 |
-| 4 | Design System (colors, fonts, components) | Document | Week 2 |
-| 5 | Functional website (staging URL) | Live URL | Week 3-4 |
-| 6 | CMS setup with sample content | Live admin panel | Week 3-4 |
-| 7 | Production deployment (live URL) | Live URL | Week 5 |
-| 8 | CMS User Guide | PDF/Markdown | Week 5 |
-| 9 | Technical Documentation | Markdown (GitBook) | Week 5 |
-| 10 | Source code repository access | GitHub | Week 5 |
+| 3 | Wireframes / UI Mockups | Figma / Image files | Week 1 |
+| 4 | Design System (colors, fonts, components) | Document | Week 1 |
+| 5 | Functional website (staging URL) | Live URL | Week 1 |
+| 6 | CMS setup with sample content | Live admin panel | Week 2 |
+| 7 | Production deployment (live URL) | Live URL | Week 2 |
+| 8 | CMS User Guide | PDF/Markdown | Week 2 |
+| 9 | Technical Documentation | Markdown (GitBook) | Week 2 |
+| 10 | Source code repository access | GitHub | Week 2 |
 
 ---
 
@@ -153,8 +153,8 @@ To ensure alignment and momentum, the investment is divided into three milestone
 | Milestone | Trigger | Amount (KES) | Due Date |
 | :--- | :--- | :--- | :--- |
 | **Deposit (40%)** | Signed SOW + project kickoff | **22,000** | Before work begins |
-| **Milestone 1 (30%)** | Approval of UI designs + Delivery of staging site | **16,500** | Week 3 |
-| **Milestone 2 (30%)** | Production launch, CMS training + Handover | **16,500** | Week 5 |
+| **Milestone 1 (30%)** | Approval of UI designs + Delivery of staging site | **16,500** | End of Week 1 |
+| **Milestone 2 (30%)** | Production launch, CMS training + Handover | **16,500** | End of Week 2 |
 
 ### 6.3 Payment Terms
 - Payments are due within **7 business days** of invoice issuance.

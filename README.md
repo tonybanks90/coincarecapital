@@ -1,6 +1,10 @@
-# 🚀 Coin Care Capital - Internal Documentation
+# 🚀 Coin Care Capital - Digital Headquarters
+
+![Coin Care Capital Home Page](./assets/screenshots/hero.png)
 
 Welcome to the **Coin Care Capital Digital Headquarters**! 
+
+> **🌐 Live Staging Site:** You can view the current, live progress of the website at any time by visiting: **[https://frontend-deploy-ten.vercel.app/](https://frontend-deploy-ten.vercel.app/)**
 
 This documentation hub is designed specifically for you—the Coin Care team. Think of this as the master blueprint for your entire digital ecosystem. Whether you want to understand how a customer applies for a loan online, how to manage your marketing channels, or what features we are building next, you will find it all right here. 
 
@@ -12,8 +16,8 @@ This documentation hub is designed specifically for you—the Coin Care team. Th
 
 We've organized everything into clear, easy-to-read sections. Click on any of the folders below to explore:
 
-### 🤝 1. Client Deliverables & Progress
-Your main dashboard for the project's status and visual updates.
+### 🤝 1. START HERE: Client Deliverables & Progress
+**🚨 This is your primary dashboard.** Check this section to review the project proposal, track the timeline, and view visual galleries of the ongoing design work.
 *   📄 **[Project Proposal](./client-deliverables/01-project-proposal.md)** - What we are building and our scaling strategy.
 *   🗺️ **[Sitemap & Features](./client-deliverables/02-sitemap-features.md)** - The structural layout of your website.
 *   ⏱️ **[Project Timeline](./client-deliverables/03-project-timeline.md)** - Our delivery schedule.
