@@ -63,3 +63,50 @@ Collecting data to run against our valuation matrix and determine the Loan-to-Va
 Confirming details before sending the data securely to the Coin Care CRM (and triggering the automated SMS flows).
 
 ![Apply Modal Step 3](../assets/screenshots/apply-step3.png)
+
+---
+
+## 4. Homepage Supporting Sections
+
+### Frequently Asked Questions (FAQ)
+Addressing common objections head-on to reduce support queries.
+
+![FAQ Section](../assets/screenshots/faq.png)
+
+---
+
+### How to Qualify / Requirements
+Clear, no-nonsense bullet points explaining exactly what a borrower needs before applying.
+
+![How to Qualify](../assets/screenshots/how-to-qualify.png)
+
+---
+
+## 5. Content Marketing & Specific Blog Posts
+
+A dedicated view for individual articles, optimized for readability and SEO. 
+
+![Specific Blog Post](../assets/screenshots/blog-post.png)
+
+---
+
+## 6. Trust & Legal Pages
+
+These pages are essential for compliance and building trust with the customer (and regulators).
+
+### Contact Us
+![Contact Page](../assets/screenshots/contact.png)
+
+### Privacy Policy
+![Privacy Policy](../assets/screenshots/privacy.png)
+
+### User Agreement
+![User Agreement](../assets/screenshots/user-agreement.png)
+
+---
+
+## 7. The Content Management System (Sanity Studio)
+
+This is the backend view where the Coin Care team will manage content, write blog posts, and update FAQs without needing a developer.
+
+![Sanity CMS Studio](../assets/screenshots/studio.png)
