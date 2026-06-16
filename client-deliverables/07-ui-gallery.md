@@ -105,8 +105,16 @@ These pages are essential for compliance and building trust with the customer (a
 
 ---
 
-## 7. The Content Management System (Sanity Studio)
+## 7. The Content Creation Factory (/studio)
 
-This is the backend view where the Coin Care team will manage content, write blog posts, and update FAQs without needing a developer.
+This is the backend view (Sanity Studio) where the Coin Care team will manage content, write blog posts, and update FAQs without needing a developer.
 
-![Sanity CMS Studio](../assets/screenshots/studio.png)
+![Content Creation Factory](../assets/screenshots/studio.png)
+
+---
+
+## 8. The Internal Admin Portal (/admin)
+
+This is the secure dashboard where loan officers and administrators can track incoming loan applications, manage leads, and review customer data.
+
+![Internal Admin Portal](../assets/screenshots/sanity-admin.png)
