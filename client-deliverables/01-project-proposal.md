@@ -68,6 +68,7 @@ This document outlines the scope, deliverables, timeline, and investment for the
 > [!IMPORTANT]
 > The following items are **not** included in the core project investment, but they can be quoted separately and executed immediately alongside the website build to accelerate your launch.
 
+- 🎨 **Content Creation Factory:** A built-in tool at `/studio` that lets your team generate professional, on-brand social media posts (holidays, promotions, news), flyers, and branded company documents in 3 simple steps — customize, download, and share. No graphic designer needed.
 - 🎨 **Social Media Content & Banners:** Custom, high-converting graphics for Facebook, Instagram, X, and TikTok.
 - ✉️ **Email & SMS Marketing Setup:** Automated customer retention campaigns (e.g., "Complete your application" or "Happy Birthday").
 - ✍️ **Ongoing Content Writing:** SEO-optimized blog posts written and published weekly.

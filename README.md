@@ -44,6 +44,7 @@ How we use AI and smart software to process loans faster than the competition.
 *   ⚡ **[Workflow Automation](./internal-tools/workflow-automation.md)** - "Invisible" pipelines that automatically alert staff of new leads.
 *   🧠 **[AI Operations](./internal-tools/ai-automation.md)** - Our plan for AI Document Scanners (OCR) and 24/7 AI Voice Sales Agents.
 *   🖥️ **[Admin Portal](./internal-tools/admin-portal.md)** - The central dashboard your team will use to approve and track loans.
+*   🎨 **[Content Creation Factory](./internal-tools/content-factory.md)** - Generate on-brand social media posts, flyers, and company documents in 3 clicks.
 
 ### 🚀 5. Scaling & The Future
 Where we are going next to ensure Coin Care Capital remains the market leader.

@@ -27,3 +27,6 @@ Deploying specialized Artificial Intelligence to perform complex tasks instantly
 
 ### 3. [Internal Admin & Loan Portal](./admin-portal.md)
 The secure, centralized dashboard with Role-Based Access Control (RBAC) where your staff actually tracks the loans, manages users, and views automated reports.
+
+### 4. [🎨 Content Creation Factory](./content-factory.md)
+Your in-house marketing engine. Generate professional, on-brand social media posts, holiday greetings, promotional flyers, and branded company documents — all without a graphic designer. Customize in 3 steps, download, and share.
