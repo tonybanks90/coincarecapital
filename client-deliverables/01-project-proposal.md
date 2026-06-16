@@ -2,8 +2,8 @@
 
 **Project:** Coin Care Capital — Digital Platform  
 **Client:** Coin Care Capital LTD  
-**Developer:** [Your Name / Studio Name]  
-**Date:** [Insert Date]  
+**Developer:** Antony Ndumia  
+**Date:** 6/16/2026  
 **Version:** 1.0
 
 ---
@@ -100,7 +100,7 @@ To ensure Coin Care Capital can handle high loan volumes without dramatically in
 | Icons | Lucide React | Consistent, lightweight icon set |
 | CMS | Sanity.io | Real-time editing, flexible content modeling, free tier available |
 | Hosting | Premium Cloud Hosting | Optimized for Next.js, auto-scaling, global CDN, free SSL |
-| Version Control | GitHub | Code backup, collaboration, deployment pipeline |
+| Version Control | [GitHub](https://github.com/Coin-Care-Capital-LTD) | Code backup, collaboration, deployment pipeline |
 
 ---
 
@@ -117,7 +117,7 @@ To ensure Coin Care Capital can handle high loan volumes without dramatically in
 | 7 | Production deployment (live URL) | Live URL | Week 2 |
 | 8 | CMS User Guide | PDF/Markdown | Week 2 |
 | 9 | Technical Documentation | Markdown (GitBook) | Week 2 |
-| 10 | Source code repository access | GitHub | Week 2 |
+| 10 | Source code repository access | [GitHub](https://github.com/Coin-Care-Capital-LTD) | Week 2 |
 
 ---
 
@@ -199,7 +199,7 @@ By signing below, both parties agree to the terms outlined in this Scope of Work
 
 | | Client | Developer |
 |---|---|---|
-| **Name** | _________________________ | _________________________ |
-| **Title** | _________________________ | _________________________ |
+| **Name** | _________________________ | Antony Ndumia |
+| **Title** | _________________________ | Lead Developer |
 | **Signature** | _________________________ | _________________________ |
-| **Date** | _________________________ | _________________________ |
+| **Date** | _________________________ | 6/16/2026 |

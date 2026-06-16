@@ -1,7 +1,7 @@
 # Project Timeline & Milestones
 
 **Project:** Coin Care Capital  
-**Start Date:** [Insert Date]  
+**Start Date:** 6/16/2026  
 **Estimated Completion:** 2 Weeks from Start  
 **Version:** 1.0
 
