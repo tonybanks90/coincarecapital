@@ -79,6 +79,15 @@ This document outlines the scope, deliverables, timeline, and investment for the
 - ❌ Logo design or full brand identity package (assumed already provided)
 - ❌ Professional photography or video production
 
+### 3.3 Proposed Future Phases (The Scaling Strategy)
+
+To ensure Coin Care Capital can handle high loan volumes without dramatically increasing staff headcount, we propose the following post-launch phases (detailed further in our Internal Tools & Scaling documentation):
+
+- **Internal Admin & Loan Portal:** A centralized dashboard to track loans from lead to disbursement.
+- **Workflow Automation:** "Invisible pipelines" that instantly alert staff of new leads and automate M-Pesa tracking.
+- **AI-Powered Operations:** Implementing OCR to automatically extract data from uploaded IDs and logbooks.
+- **AI Voice Sales Agent:** Deploying a conversational AI to call customers who abandon applications or are late on payments, operating 24/7 in English and Swahili.
+
 ---
 
 ## 4. Technology Stack

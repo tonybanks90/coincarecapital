@@ -47,3 +47,14 @@ A tool exclusively for Coin Care's field valuation officers.
     *   GPS-tagged photo uploads of the vehicle (exterior, interior, engine).
     *   Digital inspection checklist.
     *   Instant upload to the internal CRM to trigger the final loan offer.
+
+## Phase 5: AI & Operations Scaling (Q3 2027)
+
+### 🤖 AI-Powered Automation
+To handle increased loan volume without drastically increasing operational headcount.
+
+*   **Goal:** Eliminate manual data entry and scale sales/collections via Artificial Intelligence.
+*   **Features:**
+    *   **AI Document Processing (OCR):** Automatically extract names and vehicle numbers from uploaded IDs and logbook photos.
+    *   **AI Voice Sales Agent:** A conversational bot to call users who abandon their applications at night.
+    *   **AI Collections Agent:** Automated polite reminder calls for overdue payments.
