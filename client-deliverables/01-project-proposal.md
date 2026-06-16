@@ -51,9 +51,9 @@ This document outlines the scope, deliverables, timeline, and investment for the
 - [x] Image management for blog posts
 
 #### Phase 3: Deployment & Launch
-- [x] Vercel hosting setup and configuration
+- [x] Premium cloud hosting setup and configuration
 - [x] Custom domain connection (coincarecapital.co.ke or similar)
-- [x] SSL certificate (HTTPS — included with Vercel)
+- [x] SSL certificate (HTTPS for secure browsing)
 - [x] SEO meta tags and Open Graph setup
 - [x] Performance optimization (target Lighthouse score > 90)
 - [x] Google Analytics / Tag Manager integration
@@ -99,7 +99,7 @@ To ensure Coin Care Capital can handle high loan volumes without dramatically in
 | Animations | Framer Motion | Smooth, professional micro-interactions |
 | Icons | Lucide React | Consistent, lightweight icon set |
 | CMS | Sanity.io | Real-time editing, flexible content modeling, free tier available |
-| Hosting | Vercel | Optimized for Next.js, auto-scaling, global CDN, free SSL |
+| Hosting | Premium Cloud Hosting | Optimized for Next.js, auto-scaling, global CDN, free SSL |
 | Version Control | GitHub | Code backup, collaboration, deployment pipeline |
 
 ---
@@ -123,20 +123,43 @@ To ensure Coin Care Capital can handle high loan volumes without dramatically in
 
 ## 6. Investment & Payment Schedule
 
-> [!NOTE]
-> Replace the placeholder amounts below with your actual pricing.
+Building a high-performance, custom-coded financial platform (Next.js + Headless CMS) is an investment in your primary customer acquisition channel. Unlike standard template websites, this architecture ensures maximum speed, military-grade security, and scalable infrastructure.
 
-| Milestone | Deliverable | Amount (KES) | Due Date |
-|---|---|---|---|
-| **Deposit** | Signed SOW + project kickoff | [Amount] (40%) | Before work begins |
-| **Milestone 1** | Approved designs + staging site | [Amount] (30%) | Week 3 |
-| **Milestone 2** | Production launch + handover | [Amount] (30%) | Week 5 |
-| | **Total** | **[Total Amount]** | |
+### 6.1 Project Cost Breakdown (One-Time Setup)
 
-### Payment Terms
-- Payments are due within **7 business days** of invoice.
+| Phase | Description | Cost (KES) |
+| :--- | :--- | :--- |
+| **1. UI/UX & Strategy** | User journey mapping, wireframes, and custom design layouts tailored for conversion. | 10,000 |
+| **2. Frontend Engineering** | Custom Next.js development, responsive mobile-first architecture, and the multi-step "Apply Now" flow. | 25,000 |
+| **3. Backend & CMS** | Sanity Headless CMS configuration for seamless blog and FAQ management. | 12,000 |
+| **4. Deployment & SEO** | Server setup, technical SEO implementation, analytics tracking, and technical handover. | 8,000 |
+| | **Total Project Investment** | **55,000** |
+
+### 6.2 Domain, Hosting & Maintenance (Recurring)
+
+To keep the platform running securely and smoothly 24/7, the following recurring costs apply:
+
+| Service | Description | Cost (KES) |
+| :--- | :--- | :--- |
+| **Custom Domain** | Annual registration (e.g., .co.ke) | ~2,500 / year |
+| **Hosting & Maintenance Retainer** | Cloud server costs, SSL renewals, monthly backups, CMS updates, and up to 1 hour of technical support/updates per month. | **5,000 / month** |
+
+*(Note: The first month of hosting is included in the project investment. Recurring billing starts 30 days after launch).*
+
+### 6.3 Payment Milestones
+
+To ensure alignment and momentum, the investment is divided into three milestones linked directly to project deliverables:
+
+| Milestone | Trigger | Amount (KES) | Due Date |
+| :--- | :--- | :--- | :--- |
+| **Deposit (40%)** | Signed SOW + project kickoff | **22,000** | Before work begins |
+| **Milestone 1 (30%)** | Approval of UI designs + Delivery of staging site | **16,500** | Week 3 |
+| **Milestone 2 (30%)** | Production launch, CMS training + Handover | **16,500** | Week 5 |
+
+### 6.3 Payment Terms
+- Payments are due within **7 business days** of invoice issuance.
 - Work will not proceed to the next milestone until the previous milestone payment is received.
-- All prices are in **Kenya Shillings (KES)** unless otherwise stated.
+- All prices are in **Kenya Shillings (KES)**. Payment can be made via Bank Transfer or Company M-Pesa Till.
 
 ---
 
@@ -166,7 +189,7 @@ For this project to succeed, the client agrees to provide:
 
 - Upon final payment, the client receives **full ownership** of all custom code, designs, and content created for this project.
 - The developer retains the right to showcase the project in their portfolio unless the client objects in writing.
-- Third-party tools and services (Next.js, Sanity, Vercel, etc.) are subject to their own licensing terms.
+- Third-party tools and services (Next.js, Sanity, etc.) are subject to their own licensing terms.
 
 ---
 
