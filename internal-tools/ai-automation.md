@@ -30,5 +30,11 @@ Currently, a human must look at a photo of a National ID and a Logbook, verify t
 *   **How it works:** The AI analyzes the make, model, year, and market trends to provide the loan officer with an instant "Estimated Market Value" before the physical valuer even arrives.
 *   **Benefit:** Allows the loan officer to give the customer a highly accurate pre-approval quote on the first phone call, securing the deal faster than competitors.
 
+### 5. AI Voice Sales & Collections Agent
+*   **The AI Solution:** A conversational AI capable of making and receiving actual phone calls in human-sounding English or Swahili.
+*   **How it works (Sales):** When a user submits an incomplete application at 10 PM, the AI can call them immediately to answer questions and encourage them to finish.
+*   **How it works (Collections):** The AI can automatically call customers who are 2 days late on a payment, politely reminding them to pay and offering to send them the Paybill number via SMS.
+*   **Benefit:** Dramatically increases lead conversion and recovery of late payments without needing to hire a massive call center team. The AI never gets tired, angry, or off-script.
+
 ## Security Note
 All AI processing will be strictly contained within our secure infrastructure. Customer PII (Personally Identifiable Information) used for AI document extraction is never used to train public models, ensuring full compliance with the Kenyan Data Protection Act.

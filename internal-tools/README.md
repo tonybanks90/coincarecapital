@@ -23,4 +23,7 @@ We are proposing a dual approach to our internal operations:
 The invisible pipelines that connect our website, our CRM, our communication channels (SMS/WhatsApp), and our ledgers without human intervention.
 
 ### 2. [AI-Powered Operations](./ai-automation.md)
-Deploying specialized Artificial Intelligence to perform complex tasks instantly, such as reading documents and verifying vehicle data.
+Deploying specialized Artificial Intelligence to perform complex tasks instantly, such as reading documents, taking phone calls, and verifying vehicle data.
+
+### 3. [Internal Admin & Loan Portal](./admin-portal.md)
+The secure, centralized dashboard with Role-Based Access Control (RBAC) where your staff actually tracks the loans, manages users, and views automated reports.
