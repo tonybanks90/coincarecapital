@@ -15,21 +15,21 @@ The Home Page is designed to immediately establish trust and clearly communicate
 ### Hero Section
 The first thing a user sees. High-contrast typography with a clear Call to Action (CTA) pointing to the loan calculator or the direct application flow.
 
-![Hero Section](C:/Users/Antony%20Dev/Desktop/Coin-Care/docs/assets/screenshots/hero.png)
+![Hero Section](../assets/screenshots/hero.png)
 
 ---
 
 ### Loan Process Section
 A transparent breakdown of how the loan works. This is crucial for educating first-time borrowers and reducing friction.
 
-![Loan Process](C:/Users/Antony%20Dev/Desktop/Coin-Care/docs/assets/screenshots/loan-process.png)
+![Loan Process](../assets/screenshots/loan-process.png)
 
 ---
 
 ### Footer & Trust Signals
 The footer anchors the site with all necessary legal compliance, contact information, and quick links to secondary pages.
 
-![FAQ and Footer](C:/Users/Antony%20Dev/Desktop/Coin-Care/docs/assets/screenshots/faq-footer.png)
+![FAQ and Footer](../assets/screenshots/faq-footer.png)
 
 ---
 
@@ -37,7 +37,7 @@ The footer anchors the site with all necessary legal compliance, contact informa
 
 The `/blog` section is built to drive organic traffic via SEO. It features a clean masonry-style grid for reading articles.
 
-![Blog Listing](C:/Users/Antony%20Dev/Desktop/Coin-Care/docs/assets/screenshots/blog.png)
+![Blog Listing](../assets/screenshots/blog.png)
 
 ---
 
@@ -48,18 +48,18 @@ The most critical part of the website. Instead of sending users to a long, borin
 ### Step 1: Personal Details
 Capturing the absolute essentials first so we have a lead to follow up with, even if they drop off.
 
-![Apply Modal Step 1](C:/Users/Antony%20Dev/Desktop/Coin-Care/docs/assets/screenshots/apply-step1.png)
+![Apply Modal Step 1](../assets/screenshots/apply-step1.png)
 
 ---
 
 ### Step 2: Vehicle Information
 Collecting data to run against our valuation matrix and determine the Loan-to-Value (LTV) limit.
 
-![Apply Modal Step 2](C:/Users/Antony%20Dev/Desktop/Coin-Care/docs/assets/screenshots/apply-step2.png)
+![Apply Modal Step 2](../assets/screenshots/apply-step2.png)
 
 ---
 
 ### Step 3: Final Review & Submission
 Confirming details before sending the data securely to the Coin Care CRM (and triggering the automated SMS flows).
 
-![Apply Modal Step 3](C:/Users/Antony%20Dev/Desktop/Coin-Care/docs/assets/screenshots/apply-step3.png)
+![Apply Modal Step 3](../assets/screenshots/apply-step3.png)
