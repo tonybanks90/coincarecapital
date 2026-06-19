@@ -4,7 +4,7 @@
 
 Welcome to the **Coin Care Capital Digital**!
 
-> **🌐 Live Staging Site:** You can view the current, live progress of the website at any time by visiting: [**https://frontend-deploy-ten.vercel.app/**](https://frontend-deploy-ten.vercel.app/) **💻 Project Code:** [**GitHub**](https://github.com/tonybanks90/coincarecapital)
+> **🌐 Live Staging Site:** You can view the current, live progress of the website at any time by visiting: [**https://frontend-deploy-ten.vercel.app/**](https://frontend-deploy-ten.vercel.app/) **💻 Project Code:** [**GitHub**](https://github.com/Coin-Care-Capital-LTD/coincarecapital)
 
 This documentation hub is designed specifically for you—the Coin Care team. Think of this as the master blueprint for your entire digital ecosystem. Whether you want to understand how a customer applies for a loan online, how to manage your marketing channels, or what features we are building next, you will find it all right here.
 
